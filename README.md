@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/856711006747099176/1454282239709024326/image.png?ex=69508561&is=694f33e1&hm=501639259cd5ab4534c6bee2c5a55bd4617f2fc067b56e0c6f175d126c116bd4&">
+<img src="banner.png">
 
 [![Static Badge](https://img.shields.io/badge/Workshop-blue?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3636622724)
 [![Static Badge](https://img.shields.io/badge/Discord-rgb(5,7,15)?logo=discord)](https://discord.gg/eAHHZnVKzt)
@@ -41,14 +41,14 @@ Simply enter one of the `connect` commands above into your console and you shoul
 
 The best way to play locally is to simply download it on the workshop using the following link:
 > **gRust - Rust in Garry's Mod**  
-> https://steamcommunity.com/sharedfiles/filedetails/?id=3636622724
+> https://steamcommunity.com/sharedfiles/filedetails/?id=TODO
   
 You can also clone this repository into `steamapps/common/GarrysMod/garrysmod/gamemodes/rust` if you want the most up to date version.
 To update, simply run `git pull` in the gamemode's root directory.
   
 It is recommended that you download a map that supports the gRust gamemode for a playable expereince, here is the most popular:
 > **rust_highland**  
-> https://steamcommunity.com/sharedfiles/filedetails/?id=3636630095
+> https://steamcommunity.com/sharedfiles/filedetails/?id=TODO
 
 Once downloaded, simply (re)open Garry's Mod and select the "Rust" gamemode on the bottom right of the main menu,
 click "Start New Game", and select a map from the "Rust" category. If you want to play with friends, change the
